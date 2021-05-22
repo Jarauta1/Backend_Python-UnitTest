@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bd3b8df-5e71-44fb-a44f-0c5459ace0b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Kata_03/SkipTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kata_03/SubTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kata_04/Calcular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kata_04/TestCalcular.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,28 @@
       <recent name="C:\Users\Diego\PycharmProjects\UnitTest\UnitTest\Kata_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in SubTest.py">
+  <component name="RunManager" selected="Python tests.Unittests in TestCalcular.py">
+    <configuration name="Calcular" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kata_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kata_04/Calcular.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in SkipTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,6 +87,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in TestCalcular.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kata_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Kata_04/TestCalcular.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in TestStringMethods.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,26 +115,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in TextFixture.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="UnitTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kata_02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Kata_02/TextFixture.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in TestCalcular.py" />
+        <item itemvalue="Python.Calcular" />
         <item itemvalue="Python tests.Unittests in SubTest.py" />
         <item itemvalue="Python tests.Unittests in SkipTest.py" />
         <item itemvalue="Python tests.Unittests in TestStringMethods.py" />
-        <item itemvalue="Python tests.Unittests in TextFixture.py" />
       </list>
     </recent_temporary>
   </component>
